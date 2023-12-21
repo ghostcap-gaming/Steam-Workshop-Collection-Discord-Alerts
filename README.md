@@ -7,3 +7,5 @@
 ## How to use
 This tool is built using Node.js and can be deployed in a Pterodactyl Egg. It requires the following additional Node packages:
 - axios fs path url cheerio
+
+Your collection MUST be public for this bot to work.
